@@ -6,7 +6,7 @@ export default axios.create({
     //pass in a request header
     headers: {
         //api key
-        Authorization: ''
+        Authorization: 'Bearer bcpT48-Jhd7YG8MFwmhWqQ2zLImfcM9QCdPKrPnph4fO_kt6_VXfJMpDACgIVgLMBDUqCxSJXkMr2OF1I1_tZK_9vlyj2suQ3xP4q8A_d2LYeDGuXVh7PPJ0p12rXnYx'
 
     }
 })
