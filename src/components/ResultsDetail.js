@@ -10,6 +10,7 @@ const ResultsDetail = ({ result }) => {
         </View>
     )
 }
+//test
 
 const styles = StyleSheet.create({
     container: {
